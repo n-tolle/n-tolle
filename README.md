@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Tech Station
+
+<img src="https://img:shields.io/badge/JavaScript-#F7DF1E?logo=JavaScript&logoColor=black&style=plastic>
+
 <!--
 **n-tolle/n-tolle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
